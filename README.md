@@ -14,8 +14,17 @@ project 1 : TOP 20 words mentioned in the feedback repeatatively
 Files : Project > Top words analysis
 Achivements : Automated the customer feedback analysis process, Listing Top 20 frequently mentioned words which will eventually point to the domains of the company which are being mentioned with the sentiment scores for each word in what way the word is mentioned positive neutral or negative thus saving significant man-hours and eliminating the subjectivity of manual review for the Customer Experience team.
 
+Results:
+<p align="center">
+  <kbd>
+    <img src="results/Top 20.jpg" width="600">
+  </kbd>
+  <br>
+  <em>Real-time vehicle detection and toll-release logic in action</em>
+</p>
 
 Project 2 : Adanced Bucketing of feedbacks to each domains
 Files : Project Advanced Lite & Pro 
         The lite version is fast by using just rule based tagging where as Pro takes time and analysis is done using Zero shot Fallback
 Achivements : Similarly an advanced version of this project provided clear, quantitative insights into customer pain points by categorizing sentiment across various service areas like punctuality, quality, mannerism etc.
+

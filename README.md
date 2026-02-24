@@ -26,6 +26,7 @@ Project 2 : Adanced Bucketing of feedbacks to each domains
 Files : Project Advanced Lite & Pro 
         The lite version is fast by using just rule based tagging where as Pro takes time and analysis is done using Zero shot Fallback
 Achivements : Similarly an advanced version of this project provided clear, quantitative insights into customer pain points by categorizing sentiment across various service areas like punctuality, quality, mannerism etc.
+
 Results:
 <p align="center">
   <kbd>
@@ -41,6 +42,7 @@ Results:
   </kbd>
   <br>
 </p>
+
 
 
 

@@ -20,11 +20,27 @@ Results:
     <img src="results/Top 20.jpg" width="600">
   </kbd>
   <br>
-  <em>Real-time vehicle detection and toll-release logic in action</em>
 </p>
 
 Project 2 : Adanced Bucketing of feedbacks to each domains
 Files : Project Advanced Lite & Pro 
         The lite version is fast by using just rule based tagging where as Pro takes time and analysis is done using Zero shot Fallback
 Achivements : Similarly an advanced version of this project provided clear, quantitative insights into customer pain points by categorizing sentiment across various service areas like punctuality, quality, mannerism etc.
+
+<p align="center">
+  <kbd>
+    <img src="results/tag_frequency.png" width="600">
+  </kbd>
+  <br>
+  <br>
+</p>
+
+<p align="center">
+  <kbd>
+    <img src="results/tag_sentiment_stacked.png" width="600">
+  </kbd>
+  <br>
+</p>
+
+
 
